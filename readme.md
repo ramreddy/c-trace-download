@@ -9,7 +9,7 @@
   <p align="center">
     CDR Analyzer Tool
     <br />
-    <h4><a href="https://github.com/ramreddy/c-trace-download/raw/main/releases/download/1.1.7/ctrace.1.1.7.zip">Download Last Version</a></h4>
+    <h4><a href="https://github.com/ramreddy/c-trace-download/raw/main/releases/download/1.1.7/ctrace.1.1.7.zip">Download Latest Version</a></h4>
   </p>
 
   <h3 align="left">The advanced CDR analysis software for solving crimes</h3>
