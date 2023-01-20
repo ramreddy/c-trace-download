@@ -1,3 +1,8 @@
+V 1.2.5
+---------------
+
+* Fixed hide app AutoUpdated alert when there is no update
+
 V 1.2.3
 ---------------
 
