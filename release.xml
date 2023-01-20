@@ -2,5 +2,5 @@
 <item>
     <version>1.2.0</version>
     <url>https://github.com/ramreddy/c-trace-download/raw/main/releases/download/1.1.8/C-TRACE-v1.1.9.zip</url>
-    <changelog>https://github.com/ramreddy/c-trace-download/releases/tag/1.1.2</changelog>
+    <changelog>https://raw.githubusercontent.com/ramreddy/c-trace-download/main/readme.md</changelog>
 </item>
