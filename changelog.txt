@@ -1,3 +1,8 @@
+V 1.2.6
+---------------
+
+* Fixed Skip update and remain later in AutoUpdate 
+
 V 1.2.5
 ---------------
 
