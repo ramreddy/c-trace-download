@@ -1,0 +1,6 @@
+V 1.2.2
+---------------
+
+* Change Log Started
+* Fixed Auto Update
+* Fixed Tower Dump Master & C-Theory excel export
