@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.4.5</version>
-    <url>https://github.com/ramreddy/c-trace-download/raw/main/releases/download/1.4.5/ctrace-arc-v.1.4.5.zip</url>
+    <url>https://github.com/ramreddy/c-trace-download/raw/main/releases/download/1.4.5/ctrace-arc-v1.4.5.zip</url>
     <changelog>https://raw.githubusercontent.com/ramreddy/c-trace-download/main/changelog.txt</changelog>
     <dbupdate>true</dbupdate>
 </item>
